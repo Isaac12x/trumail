@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/labstack/echo"
-	"github.com/sdwolfe32/trumail/verifier"
+	"trumail/verifier"
 )
 
 // Lookup contains all output data for an email verification Lookup

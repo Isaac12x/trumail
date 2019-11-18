@@ -9,8 +9,8 @@ import (
 	"github.com/entrik/httpclient"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
-	"github.com/sdwolfe32/trumail/api"
-	"github.com/sdwolfe32/trumail/verifier"
+	"trumail/api"
+	"trumail/verifier"
 )
 
 var (
